@@ -2,7 +2,7 @@
 
 My name is Colin. I am a professional insurance accountant and licensed CPA working for Uber in San Francisco.
 I am interested in building software that interacts with financial markets by processing price/volume data at a high velocity to identify trades.
-I originally learned to code in 2017 with Python, but then started using C# as my primary language in 2020. I still occaisionally use Python for its excellent data science libraries.
+I originally learned to code in 2017 with Python, but then started using C# as my primary language in 2020. I still occasionally use Python for its excellent data science libraries.
 
 My main project is Project Orbit which is pinned to my profile below, and employs an advanced trading strategy on hundreds of unique markets and thousands of API messages per second.
 
